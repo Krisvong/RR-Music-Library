@@ -49,4 +49,4 @@ const GalleryItem = (props) => {
 } 
 
 export default GalleryItem
-Footer
+
