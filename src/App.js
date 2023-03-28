@@ -8,7 +8,7 @@ import SearchBar from './components/SearchBar'
 import Spinner from './components/Spinner'
 import { DataContext } from './context/DataContext'
 import { SearchContext } from './context/SearchContext'
-import { createResource as fetchData } from './helper'
+// import { createResource as fetchData } from './helper'
 
 const App = () => {
   let searchInput = useRef('')
@@ -54,4 +54,3 @@ const App = () => {
 }
 
 export default App;
-Footer
