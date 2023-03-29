@@ -37,7 +37,7 @@ function App() {
     <div className="App">
       <SearchBar handleSearch={handleSearch} />
       {message}
-      {renderGallery()}
+      {renderGallery()} 
     </div>
   );
 }
